@@ -2,7 +2,7 @@
   "scripts": {
     "start": "gulp server watch",
     "build": "gulp clean&gulp build",
-    "init": "npm init&npm install&touch .gitignore&(echo node_modules/&echo production/&echo package-lock.json)>.gitignore",
+    "init": "npm init&npm install&touch .gitignore&(echo node_modules/&echo production/&echo package-lock.json)>.gitignore"
   },
   "dependencies": {
     "babel-core": "^6.26.3",
