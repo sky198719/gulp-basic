@@ -1,13 +1,14 @@
 {
   "name": "gulp-basic",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "author": "Alex Zhang",
   "license": "ISC",
   "keywords": [
     "gulp-basic",
-    "gulp",
-    "jquery"
+    "jquery",
+    "sass",
+    "gulp"
   ],
   "repository": {
     "type": "git",
